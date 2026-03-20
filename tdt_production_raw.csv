@@ -1,0 +1,501 @@
+unit_id,product_line,component_type,production_date,shift,operator_id,inspection_result,defect_type,production_time_mins,unit_cost_aud,client,line_id
+10228,RF Assembly,Frequency Converter,"December 20, 2023",AFTERNOON,OP132,pass,None,35,1815.65,MIN,Line C
+10218,COMMS UNIT,Control Interface,17/03/2024,Night,OP139,Pass,N/A,-60,"1,717.20",MINING,Line C
+10408,antenna system,Patch Antenna,06-Mar-24,Night,OP111,PASS,,60,$864.11,MINING,Line C
+10128,comms unit,Power Supply Unit,28/3/2024,Night,OP130,fail,Cold Joint,120,N/A,Export,Line C
+10314,Antenna System,Patch Antenna,19.11.2024,Morn,OP109,Pass,,90,N/A,Min,Line A
+10093,Comms Unit,Power Supply Unit,2024-02-14,morning,OP100,Rework,Short Circuit,forty-five,N/A,MIN,Line B
+10141,RF Assembly,Signal Filter,5/5/2023,morning,OP142,pass,N/A,0,($2065.27),MINING,Line C
+10140,antenna system,Horn Antenna,05.04.2024,night,OP140,pass,,one-twenty,795.30,EXPORT,Line B
+10204,RF ASSEMBLY,RF Module,24/11/2023,morning,OP124,fail,Cold Joint,N/A,($1107.86),mining,Line B
+10189,RF assembly,Frequency Converter,03/02/2024,Nght,OP136,Pass,N/A,N/A,,MINING,Line C
+10305,COMMS UNIT,Power Supply Unit,13.08.2023,AFTERNOON,OP124,pass,,N/A,($2310.92),MIN,Line A
+10431,Antenna System,Dipole Antenna,20-Oct-24,morning,OP111,PASS,N/A,N/A,,Exp,Line B
+10094,Antenna System,Yagi Array,25/3/2023,Morning,OP103,rework,Cold Joint,120,N/A,Defence,Line A
+10148,RF assembly,Power Amplifier,28-09-2024,Morn,OP142,Pass,,-35,($544.30),EXPORT,Line C
+10290,RF assembly,RF Module,21/04/2023,PM-Night,OP143,Re-work,Wrong Component,30,,Export,Line A
+10032,RF ASSEMBLY,Power Amplifier,02/08/2024,Afternoon,OP142,pass,N/A,N/A,2082.48,MINING,Line B
+10009,Comms Unit,Transceiver Module,21-03-2024,NIGHT,OP141,pass,,N/A,($2090.48),Def,Line B
+10121,RF Assembly,RF Module,2024-04-06,night,OP139,FAIL,Solder Bridge,-50,$577.32,Mining,Line B
+10181,ANTENNA SYSTEM,Yagi Array,23/07/2024,Aftn,OP105,PASS,,sixty,N/A,EXPORT,Line B
+10250,Antenna System,Dipole Antenna,2023-10-29,AFTERNOON,OP119,FAIL,Wrong Component,0,N/A,MIN,Line B
+10303,Antenna System,Yagi Array,10.11.2023,Morn,OP112,pass,None,thirty,"1,885.72",EXPORT,Line C
+10320,comms unit,Encryption Board,18.07.2023,Morn,OP119,pass,None,35,($2439.59),Def,Line C
+10404,rf assembly,Power Amplifier,13.01.2023,afternoon,OP121,Pass,N/A,50,"$2,081.97",mining,Line A
+10046,Comms Unit,Transceiver Module,02.06.2023,MORNING,OP107,PASS,None,N/A,"$1,208.71",Def,Line C
+10234,ANTENNA SYSTEM,Dipole Antenna,16/09/2024,night,OP113,Pass,None,thirty,$1447.18,Defence,Line B
+10199,Antenna System,Yagi Array,2023-02-03,AM,OP144,Rework,Calibration Error,-30,N/A,Min,Line C
+10038,rf assembly,Power Amplifier,2024-07-11,Night,OP117,Fail,Solder Bridge,-25,,Min,Line B
+10144,Antenna System,Horn Antenna,06.12.2024,NIGHT,OP117,PASS,,0,$243.67,EXPORT,Line B
+10008,comms unit,Encryption Board,2023-04-04,Night,OP136,Pass,N/A,90,$1943.31,mining,Line C
+10366,Comms Unit,Control Interface,05-Jul-23,Night,OP105,PASS,N/A,40,"2,165.67",MINING,Line C
+10242,ANTENNA SYSTEM,Horn Antenna,17/07/2024,afternoon,OP116,PASS,,0,1235.64,DEF,Line C
+10157,Antenna System,Horn Antenna,2023-02-22,AM,OP118,pass,,20,($2436.90),export,Line A
+10369,COMMS UNIT,Control Interface,18/07/2024,Aftn,OP114,Rework,Wrong Component,twenty,N/A,Def,Line C
+10439,comms unit,Power Supply Unit,9/5/2024,Morn,OP109,pass,None,-20,,MINING,Line B
+10165,comms unit,Encryption Board,17.10.2023,Nght,OP142,Pass,,N/A,($961.04),export,Line C
+10380,Antenna System,Yagi Array,2023-07-13,PM,OP149,PASS,,N/A,,EXP,Line C
+10045,rf assembly,Power Amplifier,"May 10, 2023",Nght,OP128,PASS,,N/A,$2196.69,DEFENCE,Line B
+10042,ANTENNA SYSTEM,Horn Antenna,27/10/2024,Nght,OP143,Re-work,Missing Component,N/A,2200.10,Min,Line A
+10022,RF ASSEMBLY,Signal Filter,03-Apr-23,MORNING,OP145,Re-work,Cold Joint,35,,Defence,Line B
+10152,ANTENNA SYSTEM,Horn Antenna,2023-05-30,Aftn,OP143,Fail,Cold Joint,0,($2196.47),Export,Line A
+10075,antenna system,Patch Antenna,17.04.2024,afternoon,OP100,Re-work,Missing Component,0,$521.24,Mining,Line C
+10069,Antenna System,Yagi Array,12.04.2024,Morn,OP130,PASS,N/A,-90,"2,482.83",Defence,Line C
+10133,ANTENNA SYSTEM,Dipole Antenna,02/08/2024,PM-Night,OP131,FAIL,Short Circuit,0,$2034.54,Export,Line A
+10161,comms unit,Transceiver Module,10/05/2024,PM-Night,OP102,PASS,,-90,1871.05,Exp,Line B
+10054,Antenna System,Patch Antenna,25-07-2023,night,OP123,PASS,None,N/A,"2,423.35",EXPORT,Line B
+10178,rf assembly,Power Amplifier,2023-05-25,Nght,OP143,rework,Solder Bridge,45,771.48,mining,Line B
+10164,comms unit,Power Supply Unit,"October 15, 2024",MORNING,OP130,pass,N/A,ninety,N/A,EXP,Line B
+10400,comms unit,Power Supply Unit,30-04-2023,Morning,OP119,Rework,Solder Bridge,0,$468.81,Mining,Line C
+10245,Comms Unit,Transceiver Module,29/02/2024,Nght,OP126,rework,Solder Bridge,forty,$1191.95,EXP,Line B
+10013,RF ASSEMBLY,RF Module,04-Mar-23,AM,OP107,Re-work,Solder Bridge,one-twenty,($1658.01),Defence,Line A
+10324,antenna system,Patch Antenna,2024-08-01,MORNING,OP135,Pass,None,forty,($2003.31),Defence,Line B
+10338,RF assembly,RF Module,28/06/2023,Night,OP108,Pass,N/A,fifteen,$773.61,EXPORT,Line B
+10440,Comms Unit,Encryption Board,2/5/2024,night,OP137,pass,None,90,,Export,Line C
+10216,Antenna System,Dipole Antenna,4/3/2023,Nght,OP143,pass,,20,$906.96,DEFENCE,Line A
+10450,ANTENNA SYSTEM,Horn Antenna,03.09.2024,afternoon,OP127,pass,,0,$1843.97,MINING,Line B
+10316,rf assembly,RF Module,09-Apr-24,AFTERNOON,OP120,pass,N/A,forty,"$1,764.03",DEFENCE,Line A
+10466,RF Assembly,Frequency Converter,"April 09, 2023",night,OP103,pass,N/A,120,,Export,Line B
+10142,Comms Unit,Control Interface,06.09.2024,Afternoon,OP132,pass,,30,($972.77),Mining,Line A
+10406,antenna system,Horn Antenna,28/07/2024,PM,OP144,Pass,N/A,-35,$974.91,EXP,Line A
+10051,Comms Unit,Encryption Board,26/05/2023,MORNING,OP113,PASS,N/A,-25,882.35,export,Line C
+10060,Comms Unit,Encryption Board,09-06-2023,night,OP143,PASS,,0,"1,188.80",DEF,Line C
+10318,RF ASSEMBLY,Frequency Converter,24.04.2023,Night,OP131,PASS,,N/A,2463.45,Defence,Line A
+10258,antenna system,Patch Antenna,19.09.2023,Afternoon,OP131,Fail,Cold Joint,0,($1803.63),MIN,Line C
+10191,Antenna System,Horn Antenna,13-Feb-23,Morning,OP104,Re-work,Physical Damage,N/A,$830.36,Defence,Line B
+10200,RF Assembly,Frequency Converter,"December 07, 2024",MORNING,OP106,pass,,60,"1,080.05",EXPORT,Line B
+10421,RF ASSEMBLY,Signal Filter,20/03/2023,Aftn,OP149,pass,None,30,$494.14,defence,Line C
+10359,RF Assembly,Signal Filter,5/10/2024,afternoon,OP148,pass,N/A,-120,504.75,mining,Line B
+10185,comms unit,Control Interface,28/08/2024,Afternoon,OP119,Pass,,-40,,EXP,Line A
+10172,Comms Unit,Power Supply Unit,17/08/2024,afternoon,OP136,FAIL,Physical Damage,0,504.52,mining,Line A
+10005,Antenna System,Patch Antenna,2023-02-10,NIGHT,OP128,pass,None,-40,"$2,307.15",MINING,Line B
+10293,Comms Unit,Control Interface,"March 09, 2023",MORNING,OP124,pass,None,40,$1519.44,Exp,Line B
+10287,Antenna System,Patch Antenna,09/01/2024,AM,OP141,Fail,Calibration Error,0,N/A,MINING,Line C
+10319,Antenna System,Yagi Array,13-11-2023,Morn,OP149,Pass,None,25,,DEFENCE,Line C
+10426,Comms Unit,Control Interface,24-09-2024,PM,OP110,pass,None,50,N/A,EXPORT,Line A
+10016,ANTENNA SYSTEM,Horn Antenna,2023-08-28,AM,OP150,Pass,N/A,0,"$2,463.43",export,Line B
+10341,Antenna System,Patch Antenna,24-07-2023,Nght,OP141,PASS,,60,,defence,Line B
+10097,antenna system,Horn Antenna,2023-04-04,Nght,OP122,Re-work,Solder Bridge,0,"$1,028.81",DEFENCE,Line B
+10106,RF Assembly,RF Module,"April 12, 2023",night,OP102,PASS,None,N/A,1596.07,Defence,Line B
+10383,RF assembly,Frequency Converter,24.04.2023,Morn,OP103,pass,,20,"$2,116.22",Min,Line C
+10295,RF Assembly,Signal Filter,28.05.2023,AFTERNOON,,pass,,25,"1,380.19",DEFENCE,Line C
+10470,Comms Unit,Power Supply Unit,26/04/2024,Night,OP123,Pass,N/A,-20,N/A,Export,Line A
+10089,comms unit,Transceiver Module,"February 15, 2023",Aftn,OP141,pass,,fifty,2057.02,EXPORT,Line B
+10381,RF ASSEMBLY,Signal Filter,2023-02-14,PM-Night,OP119,pass,,35,$1920.23,Def,Line B
+10227,RF ASSEMBLY,RF Module,"May 08, 2023",AFTERNOON,OP147,PASS,N/A,N/A,"1,776.36",Exp,Line C
+10304,Antenna System,Horn Antenna,22-Mar-23,PM,OP111,PASS,,-20,"1,703.16",mining,Line C
+10411,Comms Unit,Transceiver Module,7/12/2024,Afternoon,OP146,rework,Physical Damage,-45,,Defence,Line A
+10464,Comms Unit,Control Interface,09-06-2024,Morning,OP138,FAIL,Solder Bridge,25,N/A,Mining,Line B
+10348,Antenna System,Patch Antenna,26/11/2024,Afternoon,OP148,Pass,N/A,-45,$1676.47,DEFENCE,Line A
+10417,COMMS UNIT,Power Supply Unit,14-Jun-24,PM-Night,OP116,fail,Wrong Component,0,$821.11,DEF,Line A
+10012,RF Assembly,Frequency Converter,26/6/2023,MORNING,OP120,fail,Solder Bridge,0,832.35,EXP,Line A
+10007,COMMS UNIT,Control Interface,2024-06-04,MORNING,OP150,PASS,,0,"$1,494.85",export,Line C
+10410,RF Assembly,Power Amplifier,09.03.2023,AFTERNOON,OP146,PASS,,90,444.52,Export,Line A
+10285,Antenna System,Yagi Array,12-05-2023,night,OP127,Pass,,sixty,$864.69,Mining,Line C
+10378,RF ASSEMBLY,RF Module,22.03.2023,Morn,OP135,pass,N/A,0,N/A,defence,Line C
+10269,COMMS UNIT,Transceiver Module,"November 05, 2024",Nght,OP102,Fail,Solder Bridge,0,$771.94,export,Line C
+10365,Antenna System,Horn Antenna,04.10.2024,Night,OP130,pass,,N/A,321.49,defence,Line B
+10420,Antenna System,Horn Antenna,"July 28, 2023",PM,OP145,PASS,,-25,1360.20,Mining,Line A
+10101,Antenna System,Yagi Array,2024-04-05,morning,OP118,Re-work,Cold Joint,-25,N/A,Mining,Line A
+10469,rf assembly,Frequency Converter,25.05.2024,afternoon,,Re-work,Cold Joint,0,979.30,Def,Line B
+10337,Comms Unit,Control Interface,03/07/2024,Nght,OP108,rework,Short Circuit,-45,256.32,Min,Line C
+10027,RF ASSEMBLY,RF Module,17-Mar-23,Aftn,OP135,pass,,25,,Mining,Line C
+10078,antenna system,Patch Antenna,08-Sep-24,Aftn,OP102,PASS,,N/A,($500.01),defence,Line B
+10419,comms unit,Transceiver Module,07.02.2024,PM,OP132,pass,N/A,50,N/A,DEFENCE,Line B
+10297,comms unit,Encryption Board,3/9/2024,AM,OP150,REWORK,Calibration Error,0,($1279.05),Export,Line C
+10229,Comms Unit,Transceiver Module,2024-11-28,Morning,OP144,Pass,,N/A,N/A,DEF,Line B
+10303,Comms Unit,Encryption Board,23-12-2024,Aftn,OP120,Re-work,Physical Damage,-45,"$2,398.21",Exp,Line C
+10096,ANTENNA SYSTEM,Yagi Array,16/9/2024,Morn,OP117,Pass,N/A,thirty-five,"$1,772.06",Mining,Line B
+10112,ANTENNA SYSTEM,Yagi Array,05-May-23,PM-Night,OP122,REWORK,Missing Component,-15,2394.99,Mining,Line B
+10346,comms unit,Power Supply Unit,2023-08-08,Nght,OP135,Fail,Solder Bridge,0,712.31,Export,Line C
+10155,RF assembly,Power Amplifier,13-Apr-23,Afternoon,OP106,Fail,Solder Bridge,sixty,"$1,106.23",mining,Line C
+10132,RF ASSEMBLY,RF Module,20/10/2023,PM-Night,OP141,pass,,N/A,$2223.28,Exp,Line A
+10371,Antenna System,Patch Antenna,24/10/2023,Morning,OP138,PASS,N/A,0,$1382.15,EXP,Line C
+10017,ANTENNA SYSTEM,Patch Antenna,"April 26, 2023",morning,OP141,Pass,,-40,,DEF,Line A
+10197,Comms Unit,Power Supply Unit,"June 11, 2024",MORNING,OP106,Pass,,forty,$166.05,DEF,Line B
+10373,ANTENNA SYSTEM,Yagi Array,19/08/2024,AM,OP144,pass,,-50,N/A,MIN,Line C
+10213,Antenna System,Yagi Array,2024-01-12,Morn,OP130,pass,N/A,0,,MIN,Line C
+10086,RF assembly,Power Amplifier,22/6/2024,Aftn,OP104,Rework,Solder Bridge,0,($625.07),defence,Line A
+10340,Antenna System,Dipole Antenna,2024-11-27,NIGHT,OP105,Re-work,Short Circuit,N/A,$460.07,mining,Line C
+10045,RF Assembly,Frequency Converter,19.11.2024,NIGHT,,Pass,None,90,256.43,EXPORT,Line A
+10416,Comms Unit,Encryption Board,28/04/2024,AM,OP149,pass,,N/A,"$1,204.06",MINING,Line A
+10226,COMMS UNIT,Control Interface,02-05-2023,Aftn,OP108,Fail,Short Circuit,15,"$2,449.45",Export,Line C
+10424,Comms Unit,Power Supply Unit,2023-08-24,afternoon,OP117,pass,,N/A,1595.07,DEF,Line A
+10039,RF Assembly,Power Amplifier,02/04/2024,Morn,OP125,pass,None,fifteen,"1,334.16",DEF,Line C
+10091,comms unit,Control Interface,31.08.2023,PM-Night,OP142,PASS,N/A,35,($1458.29),Exp,Line C
+10070,rf assembly,Frequency Converter,"February 18, 2023",Night,OP150,pass,,forty-five,$854.74,export,Line C
+10107,antenna system,Patch Antenna,04-11-2023,night,OP103,PASS,None,forty-five,749.24,Export,Line A
+10395,ANTENNA SYSTEM,Dipole Antenna,2024-07-02,Morning,OP143,Pass,,0,($1852.12),DEF,Line B
+10176,RF ASSEMBLY,RF Module,2023-01-16,PM-Night,OP147,PASS,None,ninety,$1082.09,MIN,Line B
+10073,Antenna System,Horn Antenna,"June 30, 2024",AM,OP132,Re-work,Solder Bridge,-50,"2,298.68",Mining,Line B
+10095,RF Assembly,Signal Filter,30/05/2023,AM,OP137,PASS,N/A,twenty-five,$925.18,Min,Line A
+10063,ANTENNA SYSTEM,Yagi Array,15/5/2024,afternoon,OP150,Pass,,0,2477.26,MIN,Line A
+10169,RF Assembly,Power Amplifier,27-02-2024,Nght,OP104,Fail,Cold Joint,N/A,($1027.02),Export,Line C
+10090,Comms Unit,Power Supply Unit,17/01/2023,Aftn,OP100,pass,N/A,-60,,EXPORT,Line C
+10147,antenna system,Dipole Antenna,09-04-2023,Morn,OP133,PASS,N/A,45,"$1,026.67",mining,Line C
+10163,RF assembly,RF Module,12/01/2024,Night,OP141,Fail,Wrong Component,N/A,1448.85,Export,Line A
+10130,COMMS UNIT,Encryption Board,26-May-24,Night,OP136,Rework,Physical Damage,fifteen,,EXPORT,Line C
+10210,ANTENNA SYSTEM,Dipole Antenna,18.03.2023,PM-Night,OP142,PASS,,0,,EXPORT,Line B
+10238,RF ASSEMBLY,Signal Filter,2024-07-31,PM,OP124,fail,Missing Component,forty-five,N/A,EXPORT,Line A
+10467,comms unit,Encryption Board,11-Apr-23,Morn,OP121,pass,,40,,mining,Line B
+10343,RF ASSEMBLY,Frequency Converter,18-03-2024,Night,OP124,pass,N/A,30,$342.79,MINING,Line C
+10156,COMMS UNIT,Power Supply Unit,"November 21, 2023",MORNING,OP119,PASS,,25,$590.37,MIN,Line C
+10003,Comms Unit,Encryption Board,27/01/2023,Afternoon,OP138,PASS,,-15,,DEFENCE,Line C
+10019,COMMS UNIT,Transceiver Module,02-Dec-24,morning,OP119,Pass,,N/A,798.51,mining,Line A
+10471,ANTENNA SYSTEM,Patch Antenna,2/10/2024,PM,OP129,PASS,,-45,"$2,127.79",export,Line B
+10278,ANTENNA SYSTEM,Horn Antenna,28-10-2024,AM,OP144,PASS,None,-45,N/A,Export,Line B
+10077,COMMS UNIT,Control Interface,21.01.2024,Nght,OP123,pass,None,0,,MIN,Line A
+10405,Comms Unit,Transceiver Module,24.03.2024,Nght,OP150,fail,Wrong Component,-25,N/A,defence,Line C
+10347,Antenna System,Dipole Antenna,4/4/2024,PM,OP132,Re-work,Physical Damage,-15,,MIN,Line C
+10390,Comms Unit,Encryption Board,"September 12, 2023",morning,OP102,pass,,N/A,398.97,Def,Line A
+10289,COMMS UNIT,Power Supply Unit,19-Jan-24,afternoon,OP137,Fail,Missing Component,N/A,$395.69,Exp,Line A
+10154,RF assembly,RF Module,"November 16, 2023",afternoon,OP133,PASS,,N/A,899.44,Defence,Line C
+10328,RF Assembly,RF Module,25/10/2024,Night,OP147,Pass,None,0,"$1,151.97",DEF,Line B
+10067,COMMS UNIT,Transceiver Module,17-Oct-24,AFTERNOON,,Pass,,N/A,N/A,DEF,Line A
+10183,Antenna System,Dipole Antenna,03-07-2024,Afternoon,OP129,pass,,-60,($1552.88),MINING,Line C
+10134,RF ASSEMBLY,RF Module,13-04-2024,Nght,OP119,Rework,Calibration Error,-25,426.97,DEFENCE,Line A
+10145,antenna system,Horn Antenna,04-03-2024,PM,OP111,pass,None,sixty,$1300.66,defence,Line B
+10180,Antenna System,Yagi Array,10/1/2023,morning,OP124,Re-work,Wrong Component,N/A,,mining,Line B
+10429,RF Assembly,Power Amplifier,14.08.2023,Morning,OP134,PASS,,0,416.05,Def,Line C
+10252,Antenna System,Horn Antenna,2024-07-13,AFTERNOON,OP141,FAIL,Short Circuit,N/A,,EXP,Line A
+10159,Antenna System,Patch Antenna,"August 03, 2023",Nght,OP140,pass,None,thirty,($2042.79),Mining,Line C
+10354,antenna system,Yagi Array,21.12.2024,AM,OP132,Rework,Cold Joint,45,,Export,Line A
+10461,COMMS UNIT,Transceiver Module,"May 30, 2023",Nght,OP143,Pass,N/A,N/A,1031.65,Export,Line A
+10455,ANTENNA SYSTEM,Yagi Array,10/4/2024,Afternoon,OP149,Fail,Calibration Error,-50,,MIN,Line B
+10231,rf assembly,Signal Filter,21.05.2024,Afternoon,OP121,Pass,,40,N/A,export,Line B
+10146,RF Assembly,Signal Filter,27/3/2024,Morning,OP127,pass,None,-120,523.60,DEFENCE,Line C
+10279,ANTENNA SYSTEM,Dipole Antenna,16-01-2024,Morning,OP119,Fail,Wrong Component,120,1803.69,DEF,Line B
+10247,RF assembly,Signal Filter,15/6/2024,Morning,,Pass,,N/A,$316.45,DEFENCE,Line C
+10219,RF Assembly,RF Module,12.01.2024,morning,OP148,REWORK,Solder Bridge,0,N/A,defence,Line B
+10171,antenna system,Patch Antenna,26/2/2024,Nght,OP106,Pass,,N/A,$889.08,DEF,Line B
+10309,Comms Unit,Transceiver Module,20.07.2024,night,OP101,fail,Missing Component,0,$1576.28,EXPORT,Line B
+10018,Antenna System,Patch Antenna,21-May-24,MORNING,OP140,pass,,-40,,EXP,Line C
+10475,ANTENNA SYSTEM,Patch Antenna,27/04/2024,Morning,OP100,Pass,,0,N/A,MIN,Line B
+10021,Antenna System,Dipole Antenna,17-10-2024,AM,OP105,Pass,None,-60,N/A,export,Line C
+10131,Comms Unit,Control Interface,16-Dec-24,NIGHT,OP115,Pass,,N/A,1588.90,Def,Line C
+10259,COMMS UNIT,Encryption Board,13-01-2023,NIGHT,,PASS,N/A,-25,,EXP,Line B
+10311,Comms Unit,Encryption Board,10-Dec-23,AM,OP116,fail,Calibration Error,N/A,"1,219.71",Defence,Line B
+10301,COMMS UNIT,Control Interface,11.06.2023,night,OP136,Fail,Cold Joint,60,,Defence,Line A
+10355,rf assembly,RF Module,28-01-2024,morning,OP102,pass,,-30,N/A,Mining,Line B
+10315,RF Assembly,RF Module,03/05/2023,morning,OP133,Re-work,Solder Bridge,-50,"1,967.79",Mining,Line A
+10150,Comms Unit,Encryption Board,2024-01-13,AM,OP119,Fail,Wrong Component,0,,export,Line A
+10255,COMMS UNIT,Transceiver Module,07-Jan-23,Morning,OP122,pass,,40,"$1,933.48",EXP,Line C
+10246,comms unit,Encryption Board,2023-07-30,AFTERNOON,OP103,REWORK,Calibration Error,35,$253.17,Exp,Line C
+10342,ANTENNA SYSTEM,Horn Antenna,28/03/2023,Aftn,OP125,pass,,forty-five,706.41,EXP,Line B
+10208,ANTENNA SYSTEM,Yagi Array,08.04.2024,Morn,OP112,pass,,25,$536.28,Mining,Line B
+10292,RF Assembly,RF Module,1/8/2023,AM,OP107,pass,N/A,90,,Mining,Line A
+10443,RF assembly,RF Module,10/02/2024,Night,OP111,PASS,,0,$737.15,DEFENCE,Line A
+10015,RF Assembly,Power Amplifier,16-08-2023,Morn,OP123,fail,Solder Bridge,0,,DEFENCE,Line A
+10056,RF assembly,Frequency Converter,05/12/2023,PM-Night,OP121,PASS,,0,N/A,MINING,Line B
+10076,rf assembly,Frequency Converter,"June 26, 2023",Morn,OP117,Pass,,0,N/A,Def,Line B
+10239,Antenna System,Dipole Antenna,31.03.2023,AFTERNOON,OP112,pass,None,0,"$2,017.89",export,Line C
+10040,Antenna System,Horn Antenna,"December 19, 2023",AFTERNOON,OP101,Pass,,35,"$2,050.34",MIN,Line B
+10212,COMMS UNIT,Transceiver Module,2023-04-13,Night,OP134,fail,Solder Bridge,0,,MINING,Line B
+10472,RF assembly,Signal Filter,"August 29, 2024",night,OP122,Rework,Calibration Error,0,($1474.48),DEF,Line B
+10352,comms unit,Transceiver Module,17/05/2024,MORNING,OP138,pass,,-15,$2307.06,export,Line A
+10379,antenna system,Yagi Array,02/03/2023,morning,OP109,fail,Short Circuit,40,N/A,MINING,Line C
+10188,RF ASSEMBLY,RF Module,27-11-2023,morning,OP127,FAIL,Calibration Error,forty,($1811.88),EXPORT,Line C
+10179,antenna system,Patch Antenna,23.01.2024,NIGHT,OP108,Pass,,90,577.89,Exp,Line C
+10388,RF Assembly,Power Amplifier,23-05-2024,Afternoon,OP115,PASS,None,120,N/A,Export,Line C
+10387,Antenna System,Dipole Antenna,2023-09-29,Morn,OP122,Pass,,N/A,"$1,179.82",defence,Line B
+10445,Antenna System,Yagi Array,13-Jul-24,MORNING,OP150,REWORK,Cold Joint,50,2028.11,Def,Line A
+10202,ANTENNA SYSTEM,Dipole Antenna,"March 17, 2023",morning,OP110,fail,Solder Bridge,0,"$2,465.40",EXPORT,Line A
+10201,antenna system,Horn Antenna,10/06/2023,MORNING,OP112,pass,N/A,-120,848.89,Defence,Line B
+10268,Comms Unit,Transceiver Module,"February 25, 2023",Morning,OP118,fail,Physical Damage,fifty,$377.92,defence,Line C
+10100,Antenna System,Horn Antenna,29.04.2023,night,OP131,rework,Solder Bridge,0,"1,060.69",Exp,Line B
+10323,antenna system,Horn Antenna,15.02.2023,afternoon,OP114,fail,Solder Bridge,25,351.41,export,Line C
+10263,antenna system,Dipole Antenna,01-Feb-24,Aftn,OP130,Pass,,35,,EXPORT,Line A
+10214,COMMS UNIT,Encryption Board,04-04-2024,morning,OP112,PASS,,N/A,,Export,Line A
+10248,comms unit,Control Interface,03/10/2023,AFTERNOON,OP135,PASS,,0,,MINING,Line A
+10451,antenna system,Patch Antenna,08/03/2024,PM-Night,OP149,PASS,N/A,-45,"$1,050.15",Min,Line C
+10335,Antenna System,Patch Antenna,10-Oct-23,morning,OP143,Fail,Wrong Component,forty,$265.83,Exp,Line B
+10313,Antenna System,Yagi Array,07.11.2023,AM,OP144,Fail,Cold Joint,N/A,"1,968.97",Def,Line C
+10266,Antenna System,Patch Antenna,2024-03-28,PM-Night,OP147,pass,N/A,0,2010.00,Def,Line C
+10105,Comms Unit,Transceiver Module,20/06/2024,morning,OP112,Fail,Solder Bridge,50,N/A,DEF,Line B
+10043,Antenna System,Horn Antenna,10/12/2024,Night,,pass,,N/A,"1,529.17",Mining,Line A
+10061,Antenna System,Yagi Array,29-Jan-23,Morning,OP136,Fail,Short Circuit,thirty,"1,742.58",Export,Line B
+10193,Comms Unit,Encryption Board,30-04-2024,Night,OP100,pass,N/A,-120,"$1,145.95",EXP,Line B
+10447,ANTENNA SYSTEM,Patch Antenna,22.04.2024,Night,OP139,Pass,,-60,($1469.42),Min,Line B
+10281,Antenna System,Horn Antenna,"March 07, 2023",AM,OP117,pass,N/A,thirty,$1365.64,Exp,Line A
+10112,Comms Unit,Control Interface,28-11-2024,NIGHT,,PASS,N/A,N/A,1062.45,Min,Line C
+10347,COMMS UNIT,Control Interface,2024-12-31,Night,OP150,pass,N/A,-60,,Export,Line C
+10407,RF ASSEMBLY,Power Amplifier,27-04-2024,NIGHT,OP135,Fail,Calibration Error,40,$672.30,EXPORT,Line B
+10013,ANTENNA SYSTEM,Yagi Array,24.09.2023,afternoon,OP130,pass,,fifty,,Export,Line B
+10270,comms unit,Power Supply Unit,25-02-2023,morning,OP121,pass,,-25,$2176.63,export,Line A
+10141,ANTENNA SYSTEM,Patch Antenna,17/11/2023,Morning,OP113,Fail,Physical Damage,N/A,,DEFENCE,Line A
+10378,Comms Unit,Power Supply Unit,18-Feb-24,afternoon,OP102,pass,N/A,-15,($1928.59),DEF,Line A
+10457,Comms Unit,Transceiver Module,"August 20, 2023",AM,OP124,PASS,None,20,850.78,mining,Line C
+10207,comms unit,Power Supply Unit,04-12-2024,Afternoon,OP131,Pass,None,45,N/A,defence,Line A
+10114,Comms Unit,Transceiver Module,"May 07, 2023",NIGHT,OP102,pass,N/A,0,264.18,Export,Line A
+10020,Comms Unit,Encryption Board,12/07/2024,AFTERNOON,OP107,PASS,None,30,N/A,DEFENCE,Line C
+10224,comms unit,Transceiver Module,03/04/2024,Aftn,OP107,Pass,,0,619.41,EXP,Line C
+10241,RF ASSEMBLY,Frequency Converter,30-10-2023,Morning,OP113,FAIL,Missing Component,30,179.96,Exp,Line A
+10119,Comms Unit,Transceiver Module,04/03/2023,NIGHT,OP116,PASS,N/A,N/A,,defence,Line A
+10385,ANTENNA SYSTEM,Yagi Array,03/12/2024,MORNING,OP102,Pass,None,-40,($2252.14),Def,Line C
+10370,RF ASSEMBLY,RF Module,07/07/2023,AFTERNOON,OP129,PASS,,forty-five,N/A,EXPORT,Line A
+10298,RF Assembly,Frequency Converter,27/8/2024,night,OP128,PASS,N/A,90,,EXPORT,Line A
+10308,Antenna System,Dipole Antenna,26/2/2024,Morning,OP141,pass,None,-120,N/A,EXPORT,Line C
+10115,rf assembly,Signal Filter,"May 08, 2024",Night,OP124,pass,,fifteen,"$1,338.08",EXP,Line B
+10399,RF Assembly,Frequency Converter,2023-11-25,Afternoon,OP103,pass,,forty-five,$335.25,export,Line C
+10262,Antenna System,Horn Antenna,"April 02, 2024",MORNING,OP147,Fail,Wrong Component,45,1459.26,EXP,Line A
+10372,comms unit,Transceiver Module,1/11/2024,Afternoon,OP103,FAIL,Missing Component,0,N/A,Export,Line B
+10462,Comms Unit,Encryption Board,2023-04-10,Morning,OP140,rework,Physical Damage,-60,1799.93,Exp,Line A
+10028,antenna system,Horn Antenna,20.04.2023,PM,OP107,Re-work,Cold Joint,fifty,1834.45,export,Line B
+10331,RF Assembly,Power Amplifier,6/4/2024,Night,OP132,PASS,,60,"$1,450.08",EXP,Line C
+10294,antenna system,Patch Antenna,05/12/2023,AFTERNOON,OP138,Re-work,Wrong Component,ninety,792.95,Def,Line B
+10087,RF assembly,Frequency Converter,08.09.2024,Nght,OP120,fail,Calibration Error,thirty,N/A,Def,Line C
+10254,antenna system,Patch Antenna,"May 30, 2024",NIGHT,OP122,pass,,0,,MINING,Line A
+10104,Comms Unit,Encryption Board,26-01-2024,Morning,OP112,Pass,N/A,-120,494.11,EXPORT,Line B
+10016,RF Assembly,Power Amplifier,3/1/2024,MORNING,OP143,Fail,Calibration Error,0,($1063.88),export,Line C
+10026,Antenna System,Horn Antenna,01-Feb-24,night,OP120,Rework,Solder Bridge,thirty-five,,EXP,Line B
+10334,RF ASSEMBLY,Signal Filter,18.07.2023,afternoon,OP143,Pass,,45,($1156.99),Def,Line A
+10168,RF Assembly,RF Module,"January 06, 2023",afternoon,OP109,PASS,,0,"2,131.38",mining,Line C
+10058,comms unit,Encryption Board,"December 25, 2024",Aftn,OP111,pass,None,0,1412.03,Mining,Line A
+10014,RF ASSEMBLY,RF Module,05.01.2024,Morn,OP139,pass,,-20,N/A,Min,Line C
+10433,RF Assembly,RF Module,26/01/2024,AFTERNOON,OP146,pass,N/A,0,1197.06,Def,Line C
+10222,RF ASSEMBLY,Power Amplifier,09-04-2023,night,OP100,Pass,None,N/A,$2113.81,MIN,Line C
+10357,Comms Unit,Encryption Board,03-12-2024,Morning,OP121,Pass,,-25,($1461.50),EXP,Line A
+10211,Antenna System,Horn Antenna,06-Apr-24,AFTERNOON,OP124,fail,Solder Bridge,0,N/A,Min,Line A
+10377,Comms Unit,Control Interface,29/05/2024,AM,OP119,PASS,,N/A,2081.99,mining,Line A
+10430,COMMS UNIT,Transceiver Module,05.02.2024,Night,OP143,rework,Solder Bridge,0,482.23,Defence,Line C
+10221,Comms Unit,Encryption Board,2023-11-09,NIGHT,OP146,PASS,None,twenty-five,,Def,Line A
+10473,RF assembly,Power Amplifier,16/7/2024,Night,OP118,FAIL,Solder Bridge,0,"1,294.90",Mining,Line A
+10049,COMMS UNIT,Encryption Board,19/10/2023,PM-Night,OP131,pass,N/A,ninety,"1,479.05",export,Line B
+10098,antenna system,Dipole Antenna,2023-11-17,night,OP147,PASS,N/A,-25,"$2,213.03",mining,Line B
+10209,Antenna System,Dipole Antenna,29/06/2023,Nght,OP108,REWORK,Missing Component,120,1859.45,EXP,Line C
+10267,Comms Unit,Power Supply Unit,2024-08-27,PM-Night,,pass,,one-twenty,$1009.67,Exp,Line C
+10125,comms unit,Transceiver Module,20/04/2024,AFTERNOON,OP100,fail,Calibration Error,0,$479.87,defence,Line C
+10243,COMMS UNIT,Power Supply Unit,03/01/2024,Morn,OP114,PASS,None,fifteen,,Mining,Line B
+10068,Antenna System,Dipole Antenna,"February 10, 2023",MORNING,OP133,PASS,N/A,0,"$1,489.88",Export,Line B
+10110,Antenna System,Yagi Array,2024-01-21,Aftn,OP122,PASS,,sixty,$1183.76,DEFENCE,Line C
+10309,comms unit,Transceiver Module,03-06-2023,morning,OP145,fail,Cold Joint,-45,"$1,842.60",Export,Line B
+10437,antenna system,Patch Antenna,24-Oct-24,Morning,OP108,Pass,None,0,($242.10),defence,Line A
+10122,RF ASSEMBLY,Signal Filter,13-Jun-24,PM,OP140,pass,N/A,twenty,"$1,205.63",EXP,Line B
+10264,RF assembly,Frequency Converter,07-09-2024,night,OP149,pass,N/A,-25,($2317.53),Min,Line A
+10120,rf assembly,Frequency Converter,16/05/2023,Morning,OP132,Fail,Physical Damage,twenty,($1268.29),Min,Line A
+10170,Comms Unit,Encryption Board,08-05-2024,PM-Night,OP100,Re-work,Physical Damage,-45,N/A,MIN,Line B
+10402,rf assembly,Frequency Converter,25/12/2023,AFTERNOON,OP130,Fail,Missing Component,0,$1110.32,Defence,Line C
+10035,Comms Unit,Encryption Board,16/06/2024,AFTERNOON,OP144,FAIL,Missing Component,twenty,($1151.27),Def,Line B
+10459,Comms Unit,Control Interface,18.09.2024,Night,OP113,pass,,-25,"$1,463.87",Def,Line B
+10031,comms unit,Power Supply Unit,22/05/2023,NIGHT,OP150,Fail,Solder Bridge,0,"1,091.32",export,Line C
+10423,Comms Unit,Transceiver Module,03/02/2024,night,OP109,pass,,20,768.27,DEFENCE,Line C
+10280,rf assembly,Frequency Converter,20.09.2024,NIGHT,OP103,REWORK,Calibration Error,N/A,,Export,Line C
+10418,antenna system,Dipole Antenna,2024-09-05,PM,OP102,pass,,25,,MINING,Line B
+10403,Comms Unit,Power Supply Unit,2024-08-23,Aftn,,Fail,Physical Damage,0,"2,300.27",Mining,Line B
+10011,RF Assembly,Signal Filter,10-Apr-24,PM,,pass,,60,"1,332.45",DEFENCE,Line C
+10174,ANTENNA SYSTEM,Horn Antenna,22/1/2024,night,OP121,Re-work,Calibration Error,0,"$2,175.75",DEFENCE,Line B
+10449,rf assembly,Signal Filter,2024-11-24,night,OP122,Pass,N/A,-30,N/A,EXPORT,Line B
+10116,RF Assembly,Signal Filter,"May 02, 2024",Afternoon,OP136,pass,None,fifty,$701.92,EXP,Line B
+10384,RF assembly,Signal Filter,"September 13, 2023",morning,OP107,Re-work,Physical Damage,0,,mining,Line B
+10062,comms unit,Power Supply Unit,11.08.2024,afternoon,OP148,rework,Wrong Component,0,($451.38),export,Line B
+10232,Antenna System,Yagi Array,08-02-2024,afternoon,OP144,PASS,,fifteen,1041.66,Mining,Line B
+10265,comms unit,Transceiver Module,15.07.2024,Morn,OP139,Pass,,forty-five,,Mining,Line B
+10225,ANTENNA SYSTEM,Horn Antenna,04-07-2023,PM,OP106,Fail,Physical Damage,N/A,,EXPORT,Line A
+10327,Antenna System,Patch Antenna,7/3/2024,morning,OP140,pass,N/A,-50,,Min,Line A
+10376,Antenna System,Patch Antenna,2023-03-03,Nght,OP140,pass,N/A,-35,($996.72),Exp,Line B
+10160,Antenna System,Horn Antenna,"May 05, 2023",Nght,OP138,pass,None,-35,($913.96),mining,Line C
+10103,Antenna System,Horn Antenna,20.09.2024,afternoon,OP109,rework,Wrong Component,0,,Exp,Line A
+10325,RF assembly,RF Module,"August 22, 2023",Afternoon,OP145,pass,,N/A,"1,985.29",EXPORT,Line C
+10393,Comms Unit,Power Supply Unit,21-06-2023,Nght,,fail,Missing Component,twenty,542.24,DEFENCE,Line A
+10363,Antenna System,Dipole Antenna,02/11/2024,MORNING,OP109,PASS,N/A,thirty,"$1,883.34",Export,Line A
+10356,RF Assembly,Signal Filter,30/01/2023,Night,OP120,Re-work,Short Circuit,-60,$1439.08,EXPORT,Line C
+10386,RF Assembly,Frequency Converter,08-Oct-24,Aftn,OP134,PASS,,sixty,"$2,041.06",Def,Line B
+10085,ANTENNA SYSTEM,Patch Antenna,07/11/2023,Morning,OP148,FAIL,Missing Component,0,$169.55,export,Line B
+10282,Antenna System,Horn Antenna,2023-10-27,night,,PASS,,forty-five,N/A,Export,Line B
+10244,antenna system,Yagi Array,23-Mar-23,Night,OP148,fail,Short Circuit,-120,N/A,MIN,Line B
+10066,antenna system,Dipole Antenna,06-07-2023,AM,OP129,PASS,,-30,195.58,MIN,Line A
+10065,RF Assembly,RF Module,03-10-2023,NIGHT,OP100,Pass,,fifty,953.50,export,Line B
+10273,Antenna System,Dipole Antenna,12/05/2023,Nght,OP109,PASS,,N/A,,Def,Line B
+10448,RF Assembly,Signal Filter,30/1/2024,Morn,OP102,pass,,sixty,N/A,Def,Line B
+10249,RF Assembly,Power Amplifier,17/9/2023,Night,OP123,REWORK,Solder Bridge,N/A,$912.61,export,Line B
+10044,Comms Unit,Power Supply Unit,06/09/2023,Morning,OP144,pass,None,40,$734.50,DEFENCE,Line C
+10453,comms unit,Encryption Board,"March 03, 2023",Night,OP134,Fail,Wrong Component,-30,,Export,Line B
+10444,antenna system,Dipole Antenna,06-Dec-24,Afternoon,OP116,Re-work,Calibration Error,0,N/A,mining,Line A
+10124,COMMS UNIT,Control Interface,28/11/2023,AM,OP138,REWORK,Solder Bridge,sixty,,Def,Line C
+10030,Antenna System,Dipole Antenna,15-Oct-24,NIGHT,OP101,PASS,None,40,($1696.98),EXP,Line B
+10123,RF Assembly,Frequency Converter,18-07-2024,PM,OP126,Pass,,60,$252.88,defence,Line A
+10158,RF Assembly,Frequency Converter,16/07/2023,Morning,OP124,fail,Physical Damage,-90,$265.35,Min,Line C
+10375,RF Assembly,Signal Filter,2/11/2024,PM-Night,OP105,pass,,0,"$1,897.17",EXP,Line B
+10345,Comms Unit,Control Interface,25/06/2024,NIGHT,OP119,Pass,,twenty,$1399.40,DEF,Line C
+10010,COMMS UNIT,Transceiver Module,25-Jul-24,NIGHT,OP140,pass,,N/A,$2224.64,export,Line A
+10251,Comms Unit,Control Interface,04-11-2024,Aftn,OP128,rework,Physical Damage,-40,N/A,MINING,Line C
+10166,antenna system,Patch Antenna,20.01.2024,Afternoon,OP128,Rework,Calibration Error,-15,($1550.04),defence,Line B
+10307,RF ASSEMBLY,Signal Filter,"August 08, 2023",Morning,OP144,fail,Physical Damage,0,$2325.92,DEFENCE,Line A
+10001,ANTENNA SYSTEM,Patch Antenna,22.05.2023,Afternoon,OP115,PASS,,N/A,$1487.30,EXPORT,Line A
+10272,comms unit,Power Supply Unit,27/6/2023,Nght,OP144,Pass,N/A,0,,Defence,Line B
+10277,Antenna System,Horn Antenna,2023-05-04,NIGHT,OP138,Re-work,Solder Bridge,0,($246.78),Min,Line A
+10083,antenna system,Patch Antenna,21-Feb-23,afternoon,OP136,Pass,,N/A,497.83,DEFENCE,Line B
+10192,Comms Unit,Power Supply Unit,26/09/2023,AFTERNOON,OP149,Fail,Wrong Component,sixty,N/A,Min,Line A
+10014,COMMS UNIT,Transceiver Module,15.03.2023,night,OP143,Rework,Solder Bridge,N/A,"1,145.32",DEF,Line B
+10288,Antenna System,Yagi Array,"June 23, 2023",PM,OP128,PASS,,thirty,$1760.59,export,Line C
+10422,RF Assembly,Power Amplifier,06-09-2023,Nght,OP118,pass,,N/A,"1,257.30",DEF,Line C
+10392,COMMS UNIT,Transceiver Module,13.07.2024,Aftn,OP146,Rework,Wrong Component,0,$252.18,Defence,Line B
+10412,RF Assembly,RF Module,24/2/2023,Night,OP104,PASS,N/A,20,N/A,MINING,Line A
+10153,Antenna System,Yagi Array,05/11/2024,morning,OP129,pass,,fifteen,"2,317.33",Mining,Line B
+10321,antenna system,Dipole Antenna,"December 22, 2023",Afternoon,OP115,rework,Short Circuit,-15,,Defence,Line C
+10055,antenna system,Patch Antenna,16-Dec-23,Night,OP146,pass,None,forty-five,"$1,496.31",Def,Line C
+10260,Antenna System,Patch Antenna,31-07-2023,PM,OP112,rework,Calibration Error,sixty,,defence,Line C
+10092,COMMS UNIT,Control Interface,03/11/2023,morning,OP109,FAIL,Wrong Component,-45,,Exp,Line C
+10257,comms unit,Transceiver Module,07/12/2023,morning,OP148,rework,Physical Damage,0,$692.64,DEF,Line C
+10380,RF ASSEMBLY,Power Amplifier,5/12/2024,morning,OP138,pass,N/A,N/A,$1304.90,defence,Line A
+10002,RF Assembly,Frequency Converter,16.01.2023,AFTERNOON,OP142,REWORK,Solder Bridge,N/A,"$2,187.75",EXPORT,Line B
+10436,antenna system,Horn Antenna,19/02/2024,PM,OP124,FAIL,Physical Damage,0,N/A,Exp,Line C
+10081,RF Assembly,Power Amplifier,7/4/2024,Nght,OP115,PASS,,N/A,N/A,Defence,Line A
+10223,Antenna System,Horn Antenna,08.11.2023,afternoon,OP118,Pass,None,N/A,($362.54),DEFENCE,Line A
+10458,COMMS UNIT,Power Supply Unit,"February 28, 2024",afternoon,,pass,None,50,N/A,Export,Line C
+10058,RF Assembly,Power Amplifier,27/4/2023,Night,OP133,fail,Short Circuit,0,"$2,381.92",MIN,Line B
+10115,RF assembly,RF Module,02-08-2024,morning,OP111,Fail,Wrong Component,-35,"$1,865.88",Def,Line C
+10329,RF Assembly,Signal Filter,27/07/2023,PM,OP100,PASS,,N/A,($709.01),Export,Line B
+10427,Antenna System,Horn Antenna,23/03/2023,Morn,OP117,pass,None,fifteen,N/A,Mining,Line A
+10463,RF Assembly,RF Module,12/06/2023,Morning,OP111,PASS,None,0,996.44,DEFENCE,Line B
+10457,ANTENNA SYSTEM,Horn Antenna,11-Mar-23,Nght,OP118,Pass,N/A,0,$1122.33,EXPORT,Line A
+10059,Comms Unit,Encryption Board,08/08/2024,afternoon,OP138,rework,Wrong Component,-90,($760.20),Min,Line B
+10364,RF Assembly,Frequency Converter,16/6/2024,afternoon,OP139,PASS,None,15,N/A,export,Line A
+10006,COMMS UNIT,Power Supply Unit,28/02/2024,Afternoon,OP140,pass,None,-35,"2,006.96",Def,Line C
+10284,comms unit,Encryption Board,"April 27, 2023",Afternoon,OP136,Pass,None,-30,N/A,mining,Line B
+10129,RF assembly,Frequency Converter,9/6/2023,PM-Night,OP121,PASS,,-60,N/A,Mining,Line C
+10271,Comms Unit,Transceiver Module,"August 14, 2024",night,OP150,Pass,N/A,-15,N/A,MIN,Line A
+10240,Comms Unit,Transceiver Module,09/01/2024,Nght,OP119,FAIL,Calibration Error,-15,"$1,122.59",Exp,Line A
+10362,Antenna System,Yagi Array,10.08.2023,morning,OP150,Pass,,0,$208.60,Exp,Line C
+10196,RF assembly,RF Module,10.05.2024,night,OP149,REWORK,Cold Joint,N/A,,MIN,Line A
+10198,RF ASSEMBLY,Power Amplifier,12/04/2024,Afternoon,OP102,pass,N/A,0,N/A,Exp,Line A
+10033,antenna system,Patch Antenna,21.10.2023,Aftn,OP128,FAIL,Cold Joint,-25,($418.98),MIN,Line C
+10306,RF assembly,RF Module,"July 16, 2024",AM,OP145,fail,Cold Joint,25,881.74,MIN,Line B
+10072,RF assembly,Power Amplifier,27/04/2024,MORNING,OP105,Pass,,-90,,DEF,Line C
+10349,Comms Unit,Power Supply Unit,04-08-2024,MORNING,OP144,PASS,N/A,N/A,$1255.78,defence,Line C
+10053,ANTENNA SYSTEM,Horn Antenna,"July 07, 2023",night,OP120,Pass,,50,$975.89,EXP,Line A
+10456,ANTENNA SYSTEM,Patch Antenna,06/04/2024,AFTERNOON,OP150,pass,,0,($1233.29),MINING,Line A
+10079,COMMS UNIT,Transceiver Module,08-May-24,MORNING,OP144,PASS,N/A,sixty,N/A,DEFENCE,Line C
+10057,Comms Unit,Encryption Board,29/8/2024,Afternoon,OP128,PASS,,90,($1760.95),export,Line B
+10025,Antenna System,Dipole Antenna,2023-04-03,Nght,OP137,Rework,Short Circuit,twenty-five,"1,214.49",MINING,Line C
+10047,Comms Unit,Transceiver Module,"July 30, 2023",AM,OP143,PASS,N/A,0,($169.08),MINING,Line A
+10253,Antenna System,Yagi Array,16/07/2024,Morning,OP122,PASS,,N/A,"$1,800.22",Export,Line B
+10261,Comms Unit,Power Supply Unit,26-Jan-24,Aftn,OP111,Pass,,N/A,,Export,Line A
+10071,RF Assembly,Power Amplifier,25/10/2024,morning,OP131,Fail,Solder Bridge,N/A,,EXPORT,Line C
+10409,antenna system,Horn Antenna,05-Jun-24,Aftn,OP124,Pass,,90,,EXPORT,Line A
+10452,comms unit,Power Supply Unit,"July 13, 2024",Morning,OP136,PASS,,N/A,2410.08,defence,Line C
+10205,comms unit,Power Supply Unit,13/06/2024,Aftn,OP105,pass,,0,"2,025.53",Min,Line A
+10299,Antenna System,Horn Antenna,9/4/2024,PM,OP126,PASS,N/A,25,($1783.37),EXPORT,Line B
+10220,comms unit,Encryption Board,6/10/2024,PM,OP103,FAIL,Short Circuit,90,824.02,defence,Line C
+10300,RF ASSEMBLY,RF Module,16.05.2023,AM,OP100,fail,Cold Joint,ninety,"1,699.02",export,Line A
+10135,antenna system,Horn Antenna,05/07/2023,Afternoon,OP109,Pass,,N/A,$709.18,EXPORT,Line C
+10276,RF assembly,RF Module,25.02.2023,night,OP103,PASS,,N/A,,Exp,Line C
+10288,rf assembly,Frequency Converter,30.04.2024,morning,OP127,PASS,,-120,N/A,Defence,Line A
+10382,comms unit,Power Supply Unit,17.09.2024,Afternoon,OP106,pass,,fifty,($1875.64),export,Line A
+10127,comms unit,Transceiver Module,17/11/2023,Night,,PASS,,60,"1,760.92",DEF,Line C
+10072,ANTENNA SYSTEM,Patch Antenna,04/02/2023,PM,OP138,Fail,Physical Damage,120,1813.98,DEFENCE,Line C
+10468,rf assembly,Signal Filter,24-04-2023,AM,OP142,Re-work,Missing Component,-45,,DEFENCE,Line B
+10074,rf assembly,Frequency Converter,07/12/2023,AM,OP116,Pass,,0,N/A,mining,Line A
+10235,RF Assembly,Frequency Converter,08/12/2023,PM-Night,OP116,Pass,,-90,1976.51,Exp,Line B
+10330,RF Assembly,Power Amplifier,11-Nov-24,AM,OP121,Rework,Physical Damage,N/A,,EXPORT,Line A
+10203,COMMS UNIT,Encryption Board,29/1/2024,MORNING,OP122,PASS,,15,,Mining,Line A
+10256,ANTENNA SYSTEM,Patch Antenna,30/06/2023,AFTERNOON,OP119,Fail,Calibration Error,N/A,N/A,mining,Line C
+10336,RF assembly,Power Amplifier,17/07/2023,NIGHT,OP115,Pass,N/A,0,,mining,Line A
+10397,RF ASSEMBLY,Power Amplifier,12/12/2023,AFTERNOON,OP141,FAIL,Calibration Error,sixty,$1891.47,Exp,Line A
+10401,RF assembly,Frequency Converter,31/10/2024,afternoon,OP139,pass,None,fifteen,"1,636.75",EXP,Line A
+10368,antenna system,Dipole Antenna,19/04/2023,afternoon,OP139,Pass,,N/A,N/A,Min,Line C
+10291,RF ASSEMBLY,Signal Filter,16-02-2023,Afternoon,OP117,PASS,None,0,$537.76,Exp,Line C
+10109,RF assembly,Power Amplifier,09-Oct-24,night,OP131,Pass,None,0,"$2,234.25",EXPORT,Line B
+10034,COMMS UNIT,Transceiver Module,27.05.2023,Aftn,OP115,Rework,Physical Damage,N/A,1588.32,Export,Line B
+10138,Antenna System,Dipole Antenna,2024-07-25,Morn,OP133,rework,Short Circuit,0,,Export,Line C
+10206,RF ASSEMBLY,Power Amplifier,18/07/2023,night,OP130,Pass,,-15,$819.90,Def,Line B
+10162,Comms Unit,Encryption Board,17/04/2023,PM-Night,OP110,FAIL,Physical Damage,20,N/A,mining,Line C
+10017,comms unit,Power Supply Unit,"July 23, 2023",Morn,OP120,Pass,,N/A,2244.71,mining,Line C
+10118,Antenna System,Horn Antenna,2023-05-29,PM-Night,OP111,Pass,,-30,$2442.56,Mining,Line A
+10029,RF Assembly,Power Amplifier,15-10-2023,MORNING,OP129,PASS,None,0,,Export,Line C
+10398,RF Assembly,Signal Filter,30-Mar-23,Nght,OP113,PASS,N/A,N/A,$1880.02,DEF,Line B
+10394,antenna system,Patch Antenna,10/08/2024,AFTERNOON,OP102,Rework,Wrong Component,N/A,,EXPORT,Line A
+10167,Antenna System,Patch Antenna,27/03/2023,NIGHT,OP113,PASS,None,120,N/A,Def,Line A
+10351,Comms Unit,Encryption Board,10/4/2024,night,OP145,PASS,,120,2171.90,MINING,Line C
+10048,Antenna System,Yagi Array,12.03.2024,NIGHT,OP134,Pass,,-90,1879.04,MIN,Line C
+10286,Antenna System,Dipole Antenna,"January 28, 2024",afternoon,OP123,pass,,sixty,475.25,DEF,Line C
+10353,rf assembly,Signal Filter,"August 19, 2023",Afternoon,OP132,FAIL,Solder Bridge,-20,$961.28,MIN,Line C
+10328,rf assembly,RF Module,"April 07, 2024",night,OP144,Fail,Cold Joint,50,$338.40,Def,Line A
+10139,RF assembly,RF Module,25-04-2023,afternoon,OP113,pass,,N/A,($2428.50),Exp,Line A
+10441,ANTENNA SYSTEM,Horn Antenna,30/03/2024,AM,OP101,REWORK,Short Circuit,-60,"1,117.48",Export,Line C
+10237,Antenna System,Horn Antenna,13.04.2024,PM,OP150,PASS,None,-50,,EXP,Line A
+10432,RF ASSEMBLY,RF Module,11-04-2024,PM,OP145,Pass,None,one-twenty,528.95,Defence,Line B
+10126,COMMS UNIT,Power Supply Unit,"September 24, 2023",morning,OP145,PASS,N/A,-25,$1203.81,MIN,Line B
+10465,RF Assembly,Frequency Converter,26-05-2024,afternoon,OP109,pass,N/A,-120,"1,263.69",export,Line C
+10274,COMMS UNIT,Power Supply Unit,13/12/2023,NIGHT,OP102,pass,,35,,DEF,Line B
+10088,Antenna System,Yagi Array,2023-02-26,PM,OP150,rework,Cold Joint,15,"$1,415.27",Export,Line C
+10435,RF Assembly,Frequency Converter,19/7/2023,Afternoon,OP132,rework,Wrong Component,N/A,"1,018.63",Defence,Line B
+10312,ANTENNA SYSTEM,Yagi Array,04/01/2024,Morn,OP128,FAIL,Short Circuit,-50,N/A,Exp,Line B
+10037,Comms Unit,Transceiver Module,24/08/2024,morning,OP130,rework,Solder Bridge,N/A,$357.85,Export,Line B
+10332,antenna system,Horn Antenna,28-12-2024,Morn,OP124,PASS,,0,($864.20),EXPORT,Line B
+10350,RF Assembly,Power Amplifier,07.06.2023,AM,OP140,pass,N/A,forty-five,N/A,Export,Line A
+10259,RF Assembly,RF Module,19/05/2024,PM,OP137,PASS,N/A,N/A,,DEFENCE,Line B
+10137,Comms Unit,Control Interface,16/06/2023,morning,OP144,Pass,,-35,"1,135.86",Defence,Line B
+10344,Antenna System,Patch Antenna,05-10-2024,night,OP148,PASS,N/A,-120,N/A,EXPORT,Line B
+10108,RF Assembly,RF Module,28/05/2023,morning,OP123,FAIL,Missing Component,25,($662.01),DEF,Line A
+10182,Comms Unit,Power Supply Unit,16/04/2024,MORNING,OP101,PASS,N/A,N/A,($2240.86),MIN,Line B
+10190,RF ASSEMBLY,Power Amplifier,2023-05-02,morning,OP109,FAIL,Cold Joint,thirty,"$2,455.61",EXPORT,Line A
+10084,RF Assembly,Frequency Converter,17/03/2024,Morn,OP150,fail,Solder Bridge,50,2285.04,DEFENCE,Line B
+10187,Comms Unit,Encryption Board,2023-05-07,PM,OP111,Fail,Solder Bridge,-25,"2,379.66",Mining,Line A
+10428,COMMS UNIT,Encryption Board,12/04/2023,Aftn,OP112,REWORK,Short Circuit,60,2437.91,Exp,Line A
+10326,Comms Unit,Control Interface,15-12-2024,afternoon,OP106,PASS,,forty-five,"$1,358.49",DEFENCE,Line B
+10233,rf assembly,Power Amplifier,16-06-2024,afternoon,OP145,pass,,-20,"$1,310.23",Def,Line B
+10126,comms unit,Power Supply Unit,20-Aug-23,AM,OP127,Pass,,-120,N/A,mining,Line C
+10474,rf assembly,Frequency Converter,19/06/2024,MORNING,OP125,Fail,Calibration Error,25,$1004.72,Mining,Line A
+10052,Comms Unit,Encryption Board,27-Aug-23,NIGHT,OP148,fail,Physical Damage,N/A,N/A,Min,Line B
+10120,ANTENNA SYSTEM,Patch Antenna,04/10/2024,MORNING,OP131,Pass,,20,"$2,101.23",Export,Line A
+10438,rf assembly,RF Module,06.06.2023,PM,OP148,pass,,fifty,$839.87,mining,Line C
+10460,ANTENNA SYSTEM,Dipole Antenna,02-Feb-23,PM-Night,OP124,PASS,,50,($227.22),Export,Line B
+10149,COMMS UNIT,Power Supply Unit,17-03-2024,AM,OP131,fail,Calibration Error,0,($1760.63),mining,Line B
+10396,COMMS UNIT,Encryption Board,05.02.2024,afternoon,OP124,PASS,N/A,40,216.15,defence,Line B
+10117,Antenna System,Yagi Array,25/01/2024,AFTERNOON,OP122,Pass,None,thirty,($1672.99),DEFENCE,Line C
+10339,RF ASSEMBLY,Power Amplifier,12-12-2023,Morning,OP102,PASS,,35,($1785.50),Defence,Line B
+10024,Antenna System,Yagi Array,08/09/2024,night,OP144,FAIL,Wrong Component,-60,541.57,Mining,Line B
+10036,rf assembly,Power Amplifier,2024-07-02,AM,OP119,Re-work,Short Circuit,0,1895.79,EXPORT,Line C
+10361,RF Assembly,RF Module,10/07/2023,PM,OP130,PASS,,-120,"1,335.90",MINING,Line C
+10099,comms unit,Transceiver Module,29-Feb-24,AM,OP129,fail,Cold Joint,0,($2177.37),mining,Line A
+10296,Comms Unit,Control Interface,15-Oct-24,PM-Night,OP140,Pass,N/A,fifty,N/A,Export,Line B
+10186,Antenna System,Yagi Array,2023-03-07,Nght,OP118,PASS,None,forty-five,$416.86,Defence,Line A
+10442,Antenna System,Horn Antenna,27-Jul-24,AFTERNOON,OP102,PASS,None,-15,"2,005.72",Export,Line C
+10454,RF Assembly,Frequency Converter,21/01/2023,Nght,OP120,Pass,,40,,EXPORT,Line A
+10317,RF Assembly,Power Amplifier,18.06.2024,afternoon,OP115,PASS,N/A,N/A,N/A,DEF,Line B
+10322,RF assembly,Power Amplifier,2023-06-29,AM,OP116,Rework,Wrong Component,-60,1794.10,Mining,Line C
+10425,Antenna System,Patch Antenna,12-10-2023,Afternoon,OP123,Fail,Calibration Error,90,N/A,export,Line A
+10151,COMMS UNIT,Control Interface,19-Jul-24,AM,OP144,pass,,sixty,"$2,165.47",Defence,Line B
+10283,ANTENNA SYSTEM,Dipole Antenna,30.08.2023,Morn,OP110,rework,Short Circuit,N/A,"2,004.90",EXP,Line A
+10041,Antenna System,Horn Antenna,07-Dec-23,PM-Night,OP106,fail,Missing Component,60,($976.86),EXPORT,Line C
+10194,comms unit,Power Supply Unit,12/12/2024,night,OP141,PASS,None,N/A,620.18,Mining,Line C
+10064,RF Assembly,Signal Filter,13-09-2023,Nght,OP126,FAIL,Wrong Component,fifty,N/A,Min,Line B
+10275,antenna system,Dipole Antenna,"February 29, 2024",morning,OP124,REWORK,Solder Bridge,0,N/A,DEF,Line A
+10236,antenna system,Yagi Array,19-12-2024,Morning,OP127,Pass,,forty,2376.02,Defence,Line C
+10374,Comms Unit,Power Supply Unit,20/11/2024,MORNING,OP113,PASS,N/A,N/A,,DEF,Line C
+10023,RF ASSEMBLY,Signal Filter,04-03-2024,AFTERNOON,OP101,PASS,None,N/A,"2,282.22",Min,Line C
+10414,Comms Unit,Encryption Board,11/1/2023,morning,OP144,Pass,,0,752.13,MIN,Line A
+10136,RF ASSEMBLY,Signal Filter,"April 27, 2024",PM,OP138,Fail,Solder Bridge,0,"1,606.20",MINING,Line C
+10310,antenna system,Dipole Antenna,17-08-2024,AM,OP131,Re-work,Cold Joint,-20,"$1,819.10",defence,Line B
+10177,RF ASSEMBLY,Power Amplifier,11/5/2023,Nght,OP117,FAIL,Missing Component,0,"2,099.53",MIN,Line B
+10434,antenna system,Yagi Array,18-05-2024,Aftn,OP142,PASS,,thirty,$278.23,Defence,Line B
+10184,antenna system,Horn Antenna,22/03/2024,PM-Night,OP102,pass,,N/A,N/A,EXP,Line A
+10050,RF ASSEMBLY,Power Amplifier,28.07.2023,morning,OP147,PASS,None,90,($1386.14),defence,Line B
+10195,RF assembly,Frequency Converter,24/11/2024,PM-Night,OP118,fail,Solder Bridge,-45,1537.30,EXP,Line B
+10048,RF Assembly,Power Amplifier,16/4/2024,afternoon,OP117,Pass,N/A,0,"2,384.61",EXPORT,Line C
+10053,COMMS UNIT,Transceiver Module,19.02.2023,Afternoon,OP147,pass,,N/A,$749.64,export,Line B
+10173,RF Assembly,Signal Filter,16-Jun-23,night,OP141,fail,Cold Joint,-20,"$1,303.49",EXPORT,Line B
+10391,COMMS UNIT,Control Interface,11/12/2024,Nght,OP112,PASS,,0,1560.80,export,Line B
+10111,antenna system,Horn Antenna,07-Oct-24,MORNING,OP121,REWORK,Calibration Error,one-twenty,($2337.07),Export,Line C
+10080,Comms Unit,Control Interface,24-Apr-24,MORNING,OP130,Pass,N/A,0,($1155.17),Defence,Line C
+10217,RF Assembly,Power Amplifier,06-Jun-24,AFTERNOON,OP142,FAIL,Missing Component,0,($342.16),Defence,Line A
+10175,Comms Unit,Transceiver Module,06-Jul-23,Morning,OP145,pass,,N/A,"1,615.95",Mining,Line A
+10217,RF assembly,Power Amplifier,10.09.2024,Nght,OP127,Pass,,20,$553.58,mining,Line C
+10358,Antenna System,Yagi Array,"September 25, 2024",NIGHT,OP144,FAIL,Solder Bridge,twenty-five,182.61,EXP,Line A
+10082,COMMS UNIT,Encryption Board,3/8/2023,Night,OP115,pass,None,-20,$1958.84,mining,Line B
+10413,RF Assembly,Signal Filter,6/6/2023,afternoon,OP128,Pass,N/A,N/A,269.67,DEFENCE,Line C
+10389,Comms Unit,Power Supply Unit,22.05.2024,Morning,OP131,pass,,30,"$1,391.53",Min,Line B
+10004,Comms Unit,Control Interface,25-Oct-24,PM-Night,OP131,pass,N/A,N/A,198.90,EXPORT,Line A
+10446,ANTENNA SYSTEM,Horn Antenna,2023-08-26,PM,OP121,Re-work,Cold Joint,N/A,,Export,Line C
+10415,comms unit,Power Supply Unit,2023-06-15,AM,OP105,Fail,Cold Joint,thirty,1573.51,export,Line B
+10143,ANTENNA SYSTEM,Patch Antenna,03/08/2023,Morning,OP116,Pass,None,60,"2,046.02",MINING,Line A
+10302,COMMS UNIT,Encryption Board,2024-07-29,afternoon,OP121,Fail,Short Circuit,-60,,EXPORT,Line C
+10230,Comms Unit,Encryption Board,24/3/2024,Nght,OP106,fail,Short Circuit,0,248.63,defence,Line C
+10113,RF assembly,RF Module,10.06.2023,NIGHT,OP132,Pass,None,-120,$936.33,DEFENCE,Line A
+10215,Antenna System,Dipole Antenna,9/9/2023,Afternoon,OP110,PASS,,forty,,MIN,Line B
+10280,RF assembly,Frequency Converter,28-Feb-24,PM-Night,OP133,FAIL,Solder Bridge,fifty,N/A,export,Line C
+10360,RF Assembly,RF Module,19-Nov-23,night,OP103,Pass,None,90,N/A,export,Line C
+10333,comms unit,Power Supply Unit,16.02.2024,NIGHT,OP122,PASS,None,N/A,($1663.12),Min,Line C
+10367,Comms Unit,Control Interface,26-Oct-24,night,OP119,pass,N/A,forty-five,($1373.10),Def,Line A
+10102,RF Assembly,RF Module,"June 17, 2024",night,OP101,pass,N/A,-30,($1857.30),DEFENCE,Line C
