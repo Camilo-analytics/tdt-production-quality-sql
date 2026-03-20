@@ -103,4 +103,4 @@ where quality issues were concentrated across lines, shifts, and operators.
 ## Author
 Camilo B. Martinez — Junior Data Analyst  
 Adelaide, SA, Australia  
-[GitHub: Camilo-analytics](https://github.com/Camilo-analytics)
+https://github.com/Camilo-analytics/tdt-production-quality-sql
