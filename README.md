@@ -122,4 +122,5 @@ Answers the central business question:
 ## Author
 Camilo B. Martinez — Junior Data Analyst  
 Adelaide, SA, Australia  
-[GitHub: Camilo-analytics](https://github.com/Camilo-analytics)
+
+🔗 [Repo link](https://github.com/Camilo-analytics/tdt-production-quality-sql)
