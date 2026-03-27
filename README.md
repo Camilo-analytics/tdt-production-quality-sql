@@ -1,5 +1,7 @@
 # Production Quality & Defect Analysis
 ## Torrens Defence Technologies — 2023–2024
+---
+<img width="2550" height="1409" alt="Screenshot 2026-03-27 at 8 00 29 pm" src="https://github.com/user-attachments/assets/8bb2bacd-4760-4859-965e-be4689bb40ce" />
 
 ---
 
@@ -20,7 +22,7 @@ where quality issues were concentrated across lines, shifts, and operators.
 | Raw rows | 500 |
 | Clean rows | 475 (after deduplication) |
 | Period | 2023–2024 |
-| Tool | DBeaver + SQLite |
+| Tool | DBeaver + SQLite + Tableau Public |
 
 **Key cleaning decisions:**
 - 25 duplicate unit_ids removed — kept MAX(rowid)
@@ -29,6 +31,23 @@ where quality issues were concentrated across lines, shifts, and operators.
 - operator_id blanks converted to 'unknown' (15 records)
 - inspection_result and categorical columns normalised
 
+---
+## Visualisation
+
+Interactive Tableau dashboard built from this SQL analysis.
+Answers the central business question:
+
+> **"Can TDT scale production in 2025 without compromising quality?"**
+
+| View | Question |
+|---|---|
+| Production Trend 2023-2024 | Did the business grow efficiently? |
+| Defect Heatmap | Where are defects concentrated? |
+| Operator Risk | Who represents the highest risk? |
+| Top Defects — High Risk Components | What is failing and where? |
+| Quality Year over Year | Is quality improving? |
+
+🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/camilo.barrera3824/viz/TDTProductionQuality23-24/Dashboard1?publish=yes)
 ---
 
 ## Analysis Structure
@@ -103,4 +122,4 @@ where quality issues were concentrated across lines, shifts, and operators.
 ## Author
 Camilo B. Martinez — Junior Data Analyst  
 Adelaide, SA, Australia  
-https://github.com/Camilo-analytics/tdt-production-quality-sql
+[GitHub: Camilo-analytics](https://github.com/Camilo-analytics)
